@@ -3,6 +3,7 @@
 # NativeMind
 
 For our opensource solutions please look my organizations repositories and sites:
+- Our Open Source project with Thai Students is Telon: https://github.com/telefon-one
 - Fintech: <a href="https://cex.best/">cex.best</a>
 - Crypto/Web3: <a href="https://dmny.us/">dmny.us</a> | https://github.com/DecentralizedMoney
 - MarketPlaces (Magento): https://github.com/eevee-market
