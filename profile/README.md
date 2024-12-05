@@ -23,6 +23,7 @@ Our Team Members:
 
 Our ex. Members:
 - German
+- https://github.com/mironbelinsky
 
 For more information please look my website (some mirrors can be temporary down because some VDS issues):
 - <a href="https://nativemind.net/">nativemind.net</a> (Thai version)
