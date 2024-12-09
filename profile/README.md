@@ -4,9 +4,19 @@
 </div>
 
 
+# 📋 Current Projects Overview
+
+| 🚀 Direction              | 🔗 Example                  | 📂 Repository                     |
+|---------------------------|-----------------------------|------------------------------------|
+| 📞 Telephony             | [Telon Docs](https://docs.telon.org) | [Telon GitHub](https://github.com/telon-org) |
+|                           | [Telon Website](https://telon.org) |                                    |
+| 🏠 Tax Liens             | [TaxLien Online](https://taxlien.online/) | [Private Repositories](https://github.com/taxlien-online) |
+| 💰 FinTech               | [CEX Example](https://cex.best/) | [Private Repositories](https://github.com/NativeMind-fintech) |
+|                         | [crypto](address) | [Private Repositories](https://github.com/DecentralizedMoney) |
+|                         | [NFT](address) | [Private Repositories](https://github.com/DecentralizedMoney) |
+
 For our opensource solutions please look my organizations repositories and sites:
-- Our Open Source project with Thai Students is Telon: https://github.com/telefon-one
-- Fintech: <a href="https://cex.best/">cex.best</a>
+
 - Crypto/Web3: <a href="https://dmny.us/">dmny.us</a> | https://github.com/DecentralizedMoney
 - MarketPlaces (Magento): https://github.com/eevee-market
 - AI: https://github.com/braindler
