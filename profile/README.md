@@ -1,6 +1,17 @@
-## Hi there 👋
+<div id="header" align="center">
+  <h1>👋 Hi there, we are the <span style="color:#4CAF50">NativeMind Team</span>!</h1>
+  <h3>🚀 Innovating for over <span style="color:#FFA500">17+ years</span></h3>
+  
+  <p>
+    🌐 Explore our websites (some mirrors may experience downtime due to VDS issues):
+    <ul align="center" style="list-style: none; padding: 0;">
+      <li>🌴 <a href="https://nativemind.net/">nativemind.net</a> (Thai version)</li>
+      <li>🇬🇧 <a href="https://en.nativemind.net/">en.nativemind.net</a> (English version)</li>
+      <li>🇷🇺 <a href="https://nativemind.ru/">nativemind.ru</a> (Russian version)</li>
+    </ul>
+  </p>
+</div>
 
-# NativeMind
 
 For our opensource solutions please look my organizations repositories and sites:
 - Our Open Source project with Thai Students is Telon: https://github.com/telefon-one
