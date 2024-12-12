@@ -8,21 +8,13 @@
 
 | 🚀 Direction              | 🔗 Example                  | 📂 Repository                     |
 |---------------------------|-----------------------------|------------------------------------|
+| 🏠 Tax Liens             | [TaxLien Online](https://taxlien.online/) | [Private Repositories](https://github.com/taxlien-online) |
 | 📞 Telephony             | [Telon Docs](https://docs.telon.org) | [Telon GitHub](https://github.com/telon-org) |
 |                           | [Telon Website](https://telon.org) |                                    |
-| 🏠 Tax Liens             | [TaxLien Online](https://taxlien.online/) | [Private Repositories](https://github.com/taxlien-online) |
-| 💰 FinTech               | Stable Coins: [dRUB](https://optimistic.etherscan.io/token/0x23c76c0c76e7d1792bc1f9738a3dd97ee42868b8) | [dMNY GitHub](https://github.com/DecentralizedMoney) |
+| 💰 FinTech               | Stable Coins: [dRUB](https://optimistic.etherscan.io/token/0x23c76c0c76e7d1792bc1f9738a3dd97ee42868b8)  | [dMNY GitHub](https://github.com/DecentralizedMoney) |
 |                         | [Tax Lien NFT, ICP network](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=uwtvp-wqaaa-aaaaj-qnd6a-cai) | [NFT GitHub](https://github.com/taxlien-online/taxlien_nft) |
 |                         | [CEX Example](https://cex.best/) Temporary down | Private Repositories |
 
-
-For our opensource solutions please look my organizations repositories and sites:
-
-- Crypto/Web3: <a href="https://dmny.us/">dmny.us</a> | https://github.com/DecentralizedMoney
-- MarketPlaces (Magento): https://github.com/eevee-market
-- AI: https://github.com/braindler
-- HTML, ... (Wordpress): https://github.com/nativemindnet
-- Real Estate: <a href="https://taxlien.online/">taxlien.online</a>
 
 Our Team Members:
 - [https://github.com/Ananta-Shakti/](https://github.com/Ananta-Shakti/), Owner of Business
@@ -33,6 +25,12 @@ Our Team Members:
 - [https://github.com/ausicle/](https://github.com/ausicle/), Backend Developer
 - Vishvarupa, System-Analytics
 - Wexford, Tester
+
+Our ex. solutions please look organizations repositories:
+
+- MarketPlaces (Magento): https://github.com/eevee-market
+- AI: https://github.com/braindler
+- HTML, ... (Wordpress): https://github.com/nativemindnet
 
 Our ex. Members:
 - German
