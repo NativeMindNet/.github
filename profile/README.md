@@ -11,9 +11,10 @@
 | 📞 Telephony             | [Telon Docs](https://docs.telon.org) | [Telon GitHub](https://github.com/telon-org) |
 |                           | [Telon Website](https://telon.org) |                                    |
 | 🏠 Tax Liens             | [TaxLien Online](https://taxlien.online/) | [Private Repositories](https://github.com/taxlien-online) |
-| 💰 FinTech               | [CEX Example](https://cex.best/) | [Private Repositories](https://github.com/NativeMind-fintech) |
-|                         | [crypto](address) | [Private Repositories](https://github.com/DecentralizedMoney) |
-|                         | [NFT](address) | [Private Repositories](https://github.com/DecentralizedMoney) |
+| 💰 FinTech               | Stable Coins: [dRUB](https://optimistic.etherscan.io/token/0x23c76c0c76e7d1792bc1f9738a3dd97ee42868b8) | [dMNY GitHub](https://github.com/DecentralizedMoney) |
+|                         | Tax Lien NFT, ICP network](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=uwtvp-wqaaa-aaaaj-qnd6a-cai) | [NFT GitHub](https://github.com/taxlien-online/taxlien_nft) |
+|                         | [CEX Example](https://cex.best/) Temporary down | Private Repositories |
+
 
 For our opensource solutions please look my organizations repositories and sites:
 
